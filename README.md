@@ -59,3 +59,10 @@ Since Google Colab does not include the emoji library by default, it is installe
 
 ```python
 !pip install emoji
+```
+
+---
+
+## 📘 NoteBook Link
+
+🔗https://colab.research.google.com/drive/1Mly7AbyEZoPS26BXL-MshmgPKLVvz5F1?usp=sharing
